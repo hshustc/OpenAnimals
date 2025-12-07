@@ -1,7 +1,7 @@
 # encoding: utf-8
 """
-@author:  liaoxingyu
-@contact: liaoxingyu2@jd.com
+@author:  OpenAnimals (Based on FastReID and WildlifeDatasets)
+@contact: OpenAnimals Team
 """
 
 import glob

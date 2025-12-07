@@ -1,7 +1,7 @@
 # encoding: utf-8
 """
-@author:  xingyu liao
-@contact: sherlockliao01@gmail.com
+@author:  OpenAnimals (Based on FastReID and WildlifeDatasets)
+@contact: OpenAnimals Team
 """
 
 # based on: https://github.com/open-mmlab/OpenSelfSup/blob/master/openselfsup/models/utils/gather_layer.py

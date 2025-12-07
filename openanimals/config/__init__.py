@@ -1,7 +1,7 @@
 # encoding: utf-8
 """
-@author:  l1aoxingyu
-@contact: sherlockliao01@gmail.com
+@author:  OpenAnimals (Based on FastReID and WildlifeDatasets)
+@contact: OpenAnimals Team
 """
 
 from .config import CfgNode, get_cfg, global_cfg, set_global_cfg, configurable

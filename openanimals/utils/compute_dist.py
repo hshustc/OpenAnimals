@@ -1,7 +1,7 @@
 # encoding: utf-8
 """
-@author:  xingyu liao
-@contact: sherlockliao01@gmail.com
+@author:  OpenAnimals (Based on FastReID and WildlifeDatasets)
+@contact: OpenAnimals Team
 """
 
 # Modified from: https://github.com/open-mmlab/OpenUnReID/blob/66bb2ae0b00575b80fbe8915f4d4f4739cc21206/openunreid/core/utils/compute_dist.py

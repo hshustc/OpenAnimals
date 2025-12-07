@@ -1,7 +1,7 @@
 # encoding: utf-8
 """
-@author:  Saihui Hou
-@contact: hshustc@gmail.com
+@author:  OpenAnimals (Based on FastReID and WildlifeDatasets)
+@contact: OpenAnimals Team
 """
 
 import glob

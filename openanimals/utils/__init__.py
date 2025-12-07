@@ -1,6 +1,6 @@
 # encoding: utf-8
 """
-@author:  sherlock
-@contact: sherlockliao01@gmail.com
+@author:  OpenAnimals (Based on FastReID and WildlifeDatasets)
+@contact: OpenAnimals Team
 """
 

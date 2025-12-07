@@ -1,7 +1,7 @@
 # encoding: utf-8
 """
-@author:  liaoxingyu
-@contact: sherlockliao01@gmail.com
+@author:  OpenAnimals (Based on FastReID and WildlifeDatasets)
+@contact: OpenAnimals Team
 """
 
 # based on: https://github.com/PhilJd/contiguous_pytorch_params/blob/master/contiguous_params/params.py

@@ -1,7 +1,7 @@
 # encoding: utf-8
 """
-@author:  liaoxingyu
-@contact: sherlockliao01@gmail.com
+@author:  OpenAnimals (Based on FastReID and WildlifeDatasets)
+@contact: OpenAnimals Team
 """
 import torch
 import numpy as np
