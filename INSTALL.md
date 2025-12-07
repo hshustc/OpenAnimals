@@ -12,7 +12,6 @@
 - sklearn
 - termcolor
 - tabulate
-- [faiss](https://github.com/facebookresearch/faiss) `pip install faiss-cpu`
 
 pip install yacs Cython tensorboard gdown termcolor tabulate faiss-cpu -i https://pypi.tuna.tsinghua.edu.cn/simple
 

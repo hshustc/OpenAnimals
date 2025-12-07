@@ -1,6 +1,5 @@
 *.png
 *.log
-/datasets/
 tools/vis_heatmap_models
 tools/vis_heatmap_output
 

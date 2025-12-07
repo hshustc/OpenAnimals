@@ -12,10 +12,6 @@ Please refer to [INSTALL.md](INSTALL.md).
 1. Please refer to [README.md](datasets/README.md) for preparing the datasets.
 2. Please refer to [run_animals.sh](run_animals.sh) for training and validation.
 
-## Model Zoo
-
-The pretrained models will be made publicly available later.
-
 ## Citation
 
 If you use OpenAnimals in your research, please use the following BibTeX entry for [FastReID](https://github.com/JDAI-CV/fast-reid) and [WildlifeDatasets](https://github.com/WildlifeDatasets/wildlife-datasets).
@@ -35,5 +31,13 @@ If you use OpenAnimals in your research, please use the following BibTeX entry f
   booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
   pages={5953--5963},
   year={2024}
+}
+
+@inproceedings{hou2025openanimals,
+  title={Openanimals: Revisiting person re-identification for animals towards better generalization},
+  author={Hou, Saihui and Huang, Panjian and Wang, Zengbin and Liu, Yuan and Li, Zeyu and Zhang, Man and Huang, Yongzhen},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={14369--14379},
+  year={2025}
 }
 ```
