@@ -1,0 +1,27 @@
+_BASE_: ../Base-bagtricks.yml
+
+DATASETS:
+  NAMES: ("Animals-HyenaID2022",)
+  TESTS: ("Animals-HyenaID2022",)
+
+OUTPUT_DIR: logs/Animals-HyenaID2022/bagtricks_R50
+
+INPUT:
+  SIZE_TRAIN: [ 384, 384 ]
+  SIZE_TEST: [ 384, 384 ]
+
+  REA:
+    ENABLED: False
+    PROB: 0.5
+
+MODEL:
+  META_ARCHITECTURE: MGN
+
+  BACKBONE:
+    WITH_IBN: True
+  
+SOLVER:
+  MAX_EPOCH: 120
+  SCHED: CosineAnnealingLR
+  DELAY_EPOCHS: 60
+  ETA_MIN_LR: 0.0000007

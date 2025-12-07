@@ -1,0 +1,7 @@
+_BASE_: ../Base-bagtricks.yml
+
+DATASETS:
+  NAMES: ("Animals-HyenaID2022",)
+  TESTS: ("Animals-HyenaID2022",)
+
+OUTPUT_DIR: logs/Animals-HyenaID2022/bagtricks_R50
